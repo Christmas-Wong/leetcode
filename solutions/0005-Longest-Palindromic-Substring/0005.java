@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 /**
  * @ClassName Solution
- * @Description TODO
+ * @Description TODO Brute Force
  * @Author Wang Fei
  * @EditorTime 2019/10/28 14:45
  * @Version 1.0
