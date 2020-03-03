@@ -15,24 +15,22 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        my_string = s.lower()
-        s_len = len(my_string)
+        s = s.lower()
+        s_len = len(s)
         start_pointer = 0
         end_pointer = s_len-1
-        return_value = True
         while start_pointer <= end_pointer:
-            if not my_string[start_pointer].isdigit() and not my_string[start_pointer].isalpha():
+            if not s[start_pointer].isdigit() and not s[start_pointer].isalpha():
                 start_pointer += 1
                 continue
-            if not my_string[end_pointer].isdigit() and not my_string[end_pointer].isalpha():
+            if not s[end_pointer].isdigit() and not s[end_pointer].isalpha():
                 end_pointer -= 1
                 continue
-            if my_string[start_pointer] != my_string[end_pointer]:
-                return_value = False
-                break
+            if s[start_pointer] != s[end_pointer]:
+                return False
             start_pointer += 1
             end_pointer -= 1
-        return return_value
+        return True
 
     def is_palindrome_stack(self, s):
         """
