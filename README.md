@@ -15,7 +15,7 @@
 | 0343 | [Integer Break](https://leetcode.com/problems/integer-break/submissions/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0343-Integer%20Break/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0343-Integer%20Break/integer_break.py)|
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0557-Reverse-Words-in-a-String-III/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0557-Reverse-Words-in-a-String-III/pythonSolution.py)|
 | 0859 | [Buddy String](https://leetcode.com/problems/buddy-strings/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/pythonSolution.py)|
-| 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/pythonSolution.py)|
+| 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0946-Validate%20Stack%20Sequences/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0946-Validate%20Stack%20Sequences/validate_stack%20_sequences.py)|
 
 # 剑指offer
 | # | Title | README | Java | Python |
