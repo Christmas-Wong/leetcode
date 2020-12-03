@@ -10,8 +10,18 @@
 @desc
 """
 class Solution(object):
+    def is_palindrome_function(s):
+        """
+        use string function
+        :type s: str
+        :rtype: bool
+        """
+        s = ''.join(filter(str.isalnum, s)).lower()
+        return s == s[::-1]
+
     def is_palindrome_double_pointer(self, s):
         """
+        use double pointer
         :type s: str
         :rtype: bool
         """
@@ -34,6 +44,7 @@ class Solution(object):
 
     def is_palindrome_stack(self, s):
         """
+        use stack
         :type s: str
         :rtype: bool
         """
