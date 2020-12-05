@@ -45,7 +45,7 @@
 # 程序员代码面试指南
 | # | Title | README | Java | Python |
 | ---- | ---- | ---- | ---- | ---- |
-| 001 | [第五章01-变形字符串](https://www.nowcoder.com/questionTerminal/b07c464a107e421ebbd2c82aebd42e39) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/%E9%9D%A2%E8%AF%95%E9%A2%9834-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9B%AE%E6%A0%87%E5%80%BC%E8%B7%AF%E5%BE%84/README.md) | [java]() | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/%E9%9D%A2%E8%AF%95%E9%A2%9834-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9B%AE%E6%A0%87%E5%80%BC%E8%B7%AF%E5%BE%84/find_target_path.py) |
+| 001 | [第五章01-变形字符串](https://www.nowcoder.com/questionTerminal/b07c464a107e421ebbd2c82aebd42e39) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/%E7%AC%AC%E4%BA%94%E7%AB%A001-%E5%8F%98%E5%BD%A2%E5%AD%97%E7%AC%A6%E4%B8%B2/readme.md) | [java](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/%E7%AC%AC%E4%BA%94%E7%AB%A001-%E5%8F%98%E5%BD%A2%E5%AD%97%E7%AC%A6%E4%B8%B2/main.java) | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/%E7%AC%AC%E4%BA%94%E7%AB%A001-%E5%8F%98%E5%BD%A2%E5%AD%97%E7%AC%A6%E4%B8%B2/main.py) |
 
 
 
