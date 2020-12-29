@@ -19,3 +19,18 @@ def depth(head):
     if head is None:
         return 0
     return max(depth(head.left), depth(head.right))+1
+
+
+
+def isBalanced(self, root):
+    return dfs_height(root) != -1
+def dfs_height(head):
+    if head is None:
+        return True
+    left_height = dfs_height(head.left)
+    if left_height == -1:
+        return -1
+    right_height = dfs_height(head.right)
+    if right_height == -1:
+        return -1
+    return max(left_height, right_height)+1
