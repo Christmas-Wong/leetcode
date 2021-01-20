@@ -29,6 +29,7 @@
 | 0859 | [Buddy String](https://leetcode.com/problems/buddy-strings/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/README.md) | [java](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/0895.java) | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0859-Buddy-String/pythonSolution.py)|
 | 0923 | [3sum with multipilicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0923-3sum-with-multiplicity/README.md) | [java](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0923-3sum-with-multiplicity/0923.java) | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0923-3sum-with-multiplicity/0923.py)|
 | 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0946-Validate%20Stack%20Sequences/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0946-Validate%20Stack%20Sequences/validate_stack%20_sequences.py)|
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [README](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0994-Orange_Rotting/README.md) |  | [python](https://github.com/Christmas-Wong/leetcode/blob/master/solutions/0994-Orange_Rotting/994.py)|
 
 # 剑指offer
 | # | Title | README | Java | Python |
